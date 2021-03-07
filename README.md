@@ -1,2 +1,3 @@
-# Pin
-just to pin haha
+<div align="center">
+# Charlie Jimenez
+</div>
